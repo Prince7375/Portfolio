@@ -17,8 +17,8 @@ const MyWork = () => {
                 })}
             </div>
             <div className="mywork-showmore">
-                <a href='https://github.com/Prince7375'><p>Show More</p></a>
-                <a href='https://github.com/Prince7375'><img src={arrow_icon} alt="" /></a>
+                <a href='https://github.com/Prince7375' target='_blank'><p>Show More</p></a>
+                <a href='https://github.com/Prince7375' target='_blank'><img src={arrow_icon} alt="" /></a>
                 
             </div>
         </div>
