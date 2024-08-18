@@ -44,7 +44,7 @@ const Contact = () => {
                     <p>I am currently avaliable to take on new projects, so feel free to send me a message about anything about you want me to work on. You can contact anytime</p>
                     <div className="contact-details">
                         <div className="contact-detail">
-                            <img src={mail_icon} alt="" /> <p>chowdharyprincew7375@gmail.com</p>
+                            <img src={mail_icon} alt="" /> <p>chowdharyprince7375@gmail.com</p>
                         </div>
                         <div className="contact-detail">
                             <img src={call_icon} alt="" /> <p>8882149810</p>
